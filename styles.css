@@ -1,0 +1,9 @@
+body {background-color: rgb(217, 217, 217); background-image: url(workshop.jpg);}
+
+#myself{
+  font-size: 35px; color: black; text-align: center; font-style: oblique;
+}
+
+#Milia{
+  text-align: left; font-size: 20px; color: olive;
+}
